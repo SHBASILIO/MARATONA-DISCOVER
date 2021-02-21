@@ -6,14 +6,14 @@
 
 <h2> O PROJETO </h2>
 
-<p align:justify>O projeto <strong>dev.finance$<strong> desenvolvido durante a MaratonaDiscover é uma aplicação financeira de registros de receitas/despesas diárias.</p>
+<p align=justify>O projeto <strong>dev.finance$<strong> desenvolvido durante a MaratonaDiscover é uma aplicação financeira de registros de receitas/despesas diárias.</p>
 
-## 💻 <h2>TECNOLOGIAS UTILIZADAS</h2>
+<h2>💻 TECNOLOGIAS UTILIZADAS</h2>
 
 <ul>
    <li>CSS</li>
    <li>HTML</li>
-   <li>JAVASRIPT<li>
+   <li>JAVASRIPT</li>
 </ul>
 
 <p align=center> Desenvolvido por <strong> SHIRLEY BASÍLIO (SHBASILIO) | JAN/2021</p>
