@@ -6,7 +6,7 @@
 
 <h2> O PROJETO </h2>
 
-<p align=justify>O projeto <strong>dev.finance$<strong> desenvolvido durante a MaratonaDiscover é uma aplicação financeira de registros de receitas/despesas diárias.</p>
+<p align=justify>O projeto <strong>dev.finance$</strong> foi desenvolvido durante a MaratonaDiscover é uma aplicação financeira de registros de receitas/despesas diárias.</p>
 
 <h2>💻 TECNOLOGIAS UTILIZADAS</h2>
 
